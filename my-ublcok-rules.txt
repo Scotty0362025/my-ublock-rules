@@ -21,6 +21,7 @@ bing.com##.b_canvas.b_msg
 bing.com##.cn_related_search_upsell_container
 !热门搜索
 bing.com##[id="sa_requery"]
+bing.com###sa_sse_block
 
 !---------------2.0域名屏蔽---------------
 
