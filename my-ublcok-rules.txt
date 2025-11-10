@@ -4,17 +4,155 @@
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/Scotty0362025/my-ublock-rules
 
-!  自定义广告拦截规则
+!————————————自定义广告拦截规则—————————————
 
-!  关闭手机via浏览器广告拦截继续加载按钮
-##.btn
+!---------------界面内容屏蔽---------------
 
-!  界面内容屏蔽
 ||bing.com##.b_ans
 ||bing.com###bnp_rich_div
 ||tyypcc.org##.btn
 
-! 顶级域名屏蔽
+!---------------顶级域名屏蔽---------------
 
-!  域名屏蔽
+
+!---------------域名屏蔽---------------
+
 ||bilibili.com
+!  2345
+||2345.com
+!  CSDN
+||csdn.net
+!  搜狐
+||sohu.com
+!  游侠攻略
+||ali213.net
+!  4399游戏资讯
+||news.4399.com
+!  太平洋电脑IT百科
+||pconline.com.cn
+!  百毒百家号
+||baijiahao.baidu.com
+
+
+!---------------流氓下载站---------------
+!  pc6下载站
+||pc6.com
+#ucbug下载站
+||ucbug.com
+!  绿茶软件园
+||33lc.org
+!  188下载站
+||188soft.com
+!  ZOL软件下载
+||zol.com.cn
+!  极速软件园
+||mydown.com
+!  西西软件园
+||cr173.com
+||xixiwg.com
+!  当快软件园
+||downkuai.com
+!  华军软件园
+||onlinedown.net
+!  云奥下载站
+||51xiazai.cn
+
+!---------------百度系---------------
+!  百毒文库
+||baidu.com
+!  百毒快速问医生
+||120ask.com
+!  百毒寻医问药
+||xywy.com/
+!  百毒健康
+||expert.baidu.com
+!  有来庸医
+||youlai.cn
+||youlai.cn
+!  39医生网
+||39.net
+
+!-------------辅助功能-----------------
+
+!关闭手机via浏览器广告拦截继续加载按钮
+##.btn
+
+!---------------其他---------------
+
+!  百助
+||bz.cn
+||51cto.com
+||17173.com
+||163.com
+||ali213.net
+||2345.cc
+||taiyangzhuzhao.com
+||cnzjfc.com
+||pw53.com
+||so.com
+||zol.com.cn
+||paee2pznk.cn
+||55188.com
+||haiugo.com
+||yuhuajinling.com
+||360doc.com
+||360doc.cn
+||shangyexinzhi.com
+||doc88.com
+||cy-info.cn
+||ctyun.cn
+||cda.cn
+||jb51.net
+||wanfangdata.com.cn
+||huaweicloud.com
+||huawei.com
+||linyi.gov.cn
+||shandong.gov.cn
+||hnqinzhili.com
+||sohu.com
+||ccb.com
+||bjnews.com.cn
+||qq.com
+||eastmoney.com
+||china.com.cn
+||ce.cn
+||weibo.com
+||kuaishou.com
+||pps.tv
+||sina.com.cn
+||jiemian.com
+||zhihu.com
+||worktile.com
+||pycharm.com.cn
+||ycpai.cn
+||zaixianjisuan.com
+||familydoctor.com.cn
+||youlai.cn
+||cn-healthcare.com
+||91.com
+||hao123.com
+||hao123img.com
+||hao123.cz
+||hao123.sh
+||hao123ol.com
+||hao123-hao123.com
+||hao123-hao123.cn
+||hao123.online
+||hao2380.com
+||yisu.com
+||douyin.com
+||tencent.com
+||betteryeah.com
+||aliyun.com
+||capcut.cn
+||jianying.com
+||fengak.cn
+||123pan.com
+||1234wu.com
+||jianlu365.com
+||ieway.cn
+||pingcode.com
+||refft.com
+||juejin.cn
+||guancha.cn
+||roclinux.cn
