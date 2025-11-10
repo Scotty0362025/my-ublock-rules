@@ -17,6 +17,8 @@ cn.bing.com##.b_results_eml
 cn.bing.com##[class*="id_tooltip_container"]
 !备案信息
 cn.bing.com##.b_canvas.b_msg
+!手机版下载app提示
+cn.bing.com##.cn_related_search_upsell_container
 !其他
 ||bing.com###bnp_rich_div
 
