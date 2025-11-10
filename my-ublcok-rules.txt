@@ -31,6 +31,18 @@ bilibili.com##[class*="download"]
 bilibili.com##[class*="right-entry"]
 !屏蔽"关闭广告屏蔽插件的提示"
 www.bilibili.com##.adblock-tips
+!视频界面，ai助手
+bilibili.com##div[class*=video-ai]
+!视频界面，记笔记功能
+bilibili.com##div[class*=video-note]
+!视频小窗 有bug
+!www.bilibili.com##.bpx-state-no-cursor.bpx-state-paused.bpx-player-container
+!右下角客服小窗
+bilibili.com##div[class="fixed-sidenav-storage"]
+!屏蔽B站输入框的placeholder(输入框里面的文字)(这条规则由ai生成)
+bilibili.com##[placeholder]::placeholder { color: transparent !important; }
+!屏蔽搜索框的b站热搜
+bilibili.com##div[class="search-panel"]
 
 !---------------2.0域名屏蔽---------------
 
