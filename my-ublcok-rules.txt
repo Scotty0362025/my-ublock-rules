@@ -8,9 +8,17 @@
 
 !---------------1.界面内容屏蔽---------------
 
-||bing.com##.b_ans
+!-----bing-----
+!广告窗口
+cn.bing.com##li.b_ans[class*="b_ans"]
+!垃圾ai总结
+cn.bing.com##.b_results_eml
+!页首广告按钮
+cn.bing.com##[class*="id_tooltip_container"]
+!备案信息
+cn.bing.com##.b_canvas.b_msg
+!其他
 ||bing.com###bnp_rich_div
-||tyypcc.org##.btn
 
 !---------------2.0域名屏蔽---------------
 
