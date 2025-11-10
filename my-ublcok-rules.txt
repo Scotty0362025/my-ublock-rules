@@ -19,8 +19,8 @@ cn.bing.com##[class*="id_tooltip_container"]
 cn.bing.com##.b_canvas.b_msg
 !手机版下载app提示
 cn.bing.com##.cn_related_search_upsell_container
-!其他
-||bing.com###bnp_rich_div
+!热门搜索
+cn.bing.com##[id="sa_requery"]
 
 !---------------2.0域名屏蔽---------------
 
