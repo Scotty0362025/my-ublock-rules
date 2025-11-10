@@ -1,0 +1,20 @@
+[Adblock Plus 2.0]
+! Version: 0.0.1
+! Title: my-ublock-rules
+! Expires: 1 days (update frequency)
+! Homepage: https://github.com/Scotty0362025/my-ublock-rules
+
+!  自定义广告拦截规则
+
+!  关闭手机via浏览器广告拦截继续加载按钮
+##.btn
+
+!  界面内容屏蔽
+||bing.com##.b_ans
+||bing.com###bnp_rich_div
+||tyypcc.org##.btn
+
+! 顶级域名屏蔽
+
+!  域名屏蔽
+||bilibili.com
