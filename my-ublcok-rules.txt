@@ -10,17 +10,18 @@
 
 !-----bing-----
 !广告窗口
-cn.bing.com##li.b_ans[class*="b_ans"]
+bing.com##li.b_ans[class*="b_ans"]
 !垃圾ai总结
-cn.bing.com##.b_results_eml
+bing.com##.b_results_eml
 !页首广告按钮
-cn.bing.com##[class*="id_tooltip_container"]
+bing.com##[class*="id_tooltip_container"]
 !备案信息
-cn.bing.com##.b_canvas.b_msg
+bing.com##.b_canvas.b_msg
 !手机版下载app提示
-cn.bing.com##.cn_related_search_upsell_container
+bing.com##.cn_related_search_upsell_container
 !热门搜索
-cn.bing.com##[id="sa_requery"]
+bing.com##[id="sa_requery"]
+bing.com###sa_sse_block
 
 !-----bilibili-----
 !左导航栏多余选项：会员购，赛事，下载app...
