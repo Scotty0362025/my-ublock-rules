@@ -22,9 +22,17 @@ cn.bing.com##.cn_related_search_upsell_container
 !热门搜索
 cn.bing.com##[id="sa_requery"]
 
+!-----bilibili-----
+!左导航栏多余选项：会员购，赛事，下载app...
+bilibili.com##[class="default-entry"]
+bilibili.com##[class*="download"]
+!右导航栏屏蔽多余元素
+bilibili.com##[class*="right-entry"]
+!屏蔽"关闭广告屏蔽插件的提示"
+www.bilibili.com##.adblock-tips
+
 !---------------2.0域名屏蔽---------------
 
-||bilibili.com
 !  2345
 ||2345.com
 !  CSDN
