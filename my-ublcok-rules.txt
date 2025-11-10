@@ -32,53 +32,6 @@
 ||pconline.com.cn
 !  百毒百家号
 ||baijiahao.baidu.com
-
-
-!---------------流氓下载站---------------
-!  pc6下载站
-||pc6.com
-#ucbug下载站
-||ucbug.com
-!  绿茶软件园
-||33lc.org
-!  188下载站
-||188soft.com
-!  ZOL软件下载
-||zol.com.cn
-!  极速软件园
-||mydown.com
-!  西西软件园
-||cr173.com
-||xixiwg.com
-!  当快软件园
-||downkuai.com
-!  华军软件园
-||onlinedown.net
-!  云奥下载站
-||51xiazai.cn
-
-!---------------百度系---------------
-!  百毒文库
-||baidu.com
-!  百毒快速问医生
-||120ask.com
-!  百毒寻医问药
-||xywy.com/
-!  百毒健康
-||expert.baidu.com
-!  有来庸医
-||youlai.cn
-||youlai.cn
-!  39医生网
-||39.net
-
-!-------------辅助功能-----------------
-
-!关闭手机via浏览器广告拦截继续加载按钮
-##.btn
-
-!---------------其他---------------
-
 !  百助
 ||bz.cn
 ||51cto.com
@@ -156,3 +109,50 @@
 ||juejin.cn
 ||guancha.cn
 ||roclinux.cn
+
+
+!---------------流氓下载站---------------
+!  pc6下载站
+||pc6.com
+#ucbug下载站
+||ucbug.com
+!  绿茶软件园
+||33lc.org
+!  188下载站
+||188soft.com
+!  ZOL软件下载
+||zol.com.cn
+!  极速软件园
+||mydown.com
+!  西西软件园
+||cr173.com
+||xixiwg.com
+!  当快软件园
+||downkuai.com
+!  华军软件园
+||onlinedown.net
+!  云奥下载站
+||51xiazai.cn
+
+!---------------百度系---------------
+!  百毒文库
+||baidu.com
+!  百毒快速问医生
+||120ask.com
+!  百毒寻医问药
+||xywy.com/
+!  百毒健康
+||expert.baidu.com
+!  有来庸医
+||youlai.cn
+||youlai.cn
+!  39医生网
+||39.net
+
+!-------------辅助功能-----------------
+
+!关闭手机via浏览器广告拦截继续加载按钮
+##.btn
+
+!---------------其他---------------
+
