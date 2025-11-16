@@ -45,7 +45,7 @@ bilibili.com##div[class="fixed-sidenav-storage"]
 !屏蔽B站输入框的placeholder(输入框里面的文字)(这条规则由ai生成)
 bilibili.com##[placeholder]::placeholder { color: transparent !important; }
 !屏蔽搜索框的b站热搜
-bilibili.com##div[class="search-panel"]
+bilibili.com##div[class*="search-panel"]
 
 !---------------2.0域名屏蔽---------------
 
