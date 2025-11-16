@@ -61,8 +61,6 @@ bilibili.com##div[class*="search-panel"]
 ||news.4399.com
 !  太平洋电脑IT百科
 ||pconline.com.cn
-!  百毒百家号
-||baijiahao.baidu.com
 !  百助
 ||bz.cn
 ||51cto.com
@@ -166,11 +164,11 @@ bilibili.com##div[class*="search-panel"]
 ||51xiazai.cn
 
 !---------------2.2百度系---------------
-!  百毒文库
-||baidu.com
 !  百毒快速问医生
 ||120ask.com
 !  百毒寻医问药
+!  百家号
+||baijiahao.baidu.com
 ||xywy.com/
 !  百毒健康
 ||expert.baidu.com
