@@ -27,12 +27,15 @@ bing.com###sa_sse_block
 !左导航栏多余选项：会员购，赛事，下载app...
 bilibili.com##[class="default-entry"]
 bilibili.com##[class*="download"]
+bilibili.com##li[class*="left-loc-entry"]
 !右导航栏屏蔽多余元素
 bilibili.com##[class*="right-entry"]
 !屏蔽"关闭广告屏蔽插件的提示"
 www.bilibili.com##.adblock-tips
 !视频界面，ai助手
 bilibili.com##div[class*=video-ai]
+#b站视频下广告模块
+bilibili.com##div[class="inside-wrp"]
 !视频界面，记笔记功能
 bilibili.com##div[class*=video-note]
 !视频小窗 有bug
