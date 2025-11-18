@@ -49,97 +49,6 @@ bilibili.com##div[class*="search-panel"]
 
 !---------------2.0域名屏蔽---------------
 
-!  2345
-||2345.com
-!  CSDN
-||csdn.net
-!  搜狐
-||sohu.com
-!  游侠攻略
-||ali213.net
-!  4399游戏资讯
-||news.4399.com
-!  太平洋电脑IT百科
-||pconline.com.cn
-!  百助
-||bz.cn
-||51cto.com
-||17173.com
-||163.com
-||ali213.net
-||2345.cc
-||taiyangzhuzhao.com
-||cnzjfc.com
-||pw53.com
-||so.com
-||zol.com.cn
-||paee2pznk.cn
-||55188.com
-||haiugo.com
-||yuhuajinling.com
-||360doc.com
-||360doc.cn
-||shangyexinzhi.com
-||doc88.com
-||cy-info.cn
-||ctyun.cn
-||cda.cn
-||jb51.net
-||wanfangdata.com.cn
-||huaweicloud.com
-||huawei.com
-||linyi.gov.cn
-||shandong.gov.cn
-||hnqinzhili.com
-||sohu.com
-||ccb.com
-||bjnews.com.cn
-||qq.com
-||eastmoney.com
-||china.com.cn
-||ce.cn
-||weibo.com
-||kuaishou.com
-||pps.tv
-||sina.com.cn
-||jiemian.com
-||zhihu.com
-||worktile.com
-||pycharm.com.cn
-||ycpai.cn
-||zaixianjisuan.com
-||familydoctor.com.cn
-||youlai.cn
-||cn-healthcare.com
-||91.com
-||hao123.com
-||hao123img.com
-||hao123.cz
-||hao123.sh
-||hao123ol.com
-||hao123-hao123.com
-||hao123-hao123.cn
-||hao123.online
-||hao2380.com
-||yisu.com
-||douyin.com
-||tencent.com
-||betteryeah.com
-||aliyun.com
-||capcut.cn
-||jianying.com
-||fengak.cn
-||123pan.com
-||1234wu.com
-||jianlu365.com
-||ieway.cn
-||pingcode.com
-||refft.com
-||juejin.cn
-||guancha.cn
-||roclinux.cn
-
-
 !---------------2.1流氓下载站---------------
 !  pc6下载站
 ||pc6.com
@@ -177,6 +86,99 @@ bilibili.com##div[class*="search-panel"]
 ||youlai.cn
 !  39医生网
 ||39.net
+
+!  2345
+||2345.com
+!  CSDN
+||csdn.net
+!  搜狐
+||sohu.com
+!  游侠攻略
+||ali213.net
+!  4399游戏资讯
+||news.4399.com
+!  太平洋电脑IT百科
+||pconline.com.cn
+!  百助
+||bz.cn
+
+!其他网站
+||1234wu.com
+||123pan.com
+||163.com
+||17173.com
+||2345.cc
+||360doc.cn
+||360doc.com
+||51cto.com
+||55188.com
+||91.com
+||ali213.net
+||aliyun.com
+||betteryeah.com
+||bjnews.com.cn
+||capcut.cn
+||ccb.com
+||cda.cn
+||ce.cn
+||china.com.cn
+||cn-healthcare.com
+||cnzjfc.com
+||ctyun.cn
+||cy-info.cn
+||doc88.com
+||douyin.com
+||eastmoney.com
+||familydoctor.com.cn
+||fengak.cn
+||guancha.cn
+||haiugo.com
+||hao123-hao123.cn
+||hao123-hao123.com
+||hao123.com
+||hao123.cz
+||hao123.sh
+||hao123img.com
+||hao123ol.com
+||hao123.online
+||hao2380.com
+||hnqinzhili.com
+||huawei.com
+||huaweicloud.com
+||ieway.cn
+||jb51.net
+||jianlu365.com
+||jianying.com
+||jiemian.com
+||juejin.cn
+||kuaishou.com
+||linyi.gov.cn
+||paee2pznk.cn
+||pingcode.com
+||pps.tv
+||pw53.com
+||pycharm.com.cn
+||qq.com
+||refft.com
+||roclinux.cn
+||shandong.gov.cn
+||shangyexinzhi.com
+||sina.com.cn
+||so.com
+||sohu.com
+||taiyangzhuzhao.com
+||tencent.com
+||wanfangdata.com.cn
+||weibo.com
+||worktile.com
+||ycpai.cn
+||yisu.com
+||youlai.cn
+||yuhuajinling.com
+||zaixianjisuan.com
+||zhihu.com
+||zol.com.cn
+
 
 !-------------3.辅助功能-----------------
 
