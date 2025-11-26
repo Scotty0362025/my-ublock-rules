@@ -118,7 +118,6 @@ bilibili.com##div[class*="search-panel"]
 ||betteryeah.com
 ||bjnews.com.cn
 ||capcut.cn
-||ccb.com
 ||cda.cn
 ||ce.cn
 ||china.com.cn
