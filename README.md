@@ -10,4 +10,4 @@ Subscribe
 https://raw.githubusercontent.com/Scotty0362025/my-ublock-rules/refs/heads/main/my-ublcok-rules.txt
 ```
 
-Created in 2025.11.10
+Created in Nov 11, 2025
