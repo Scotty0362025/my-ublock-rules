@@ -104,7 +104,6 @@ bilibili.com##div[class*="search-panel"]
 
 !其他网站
 ||1234wu.com
-||123pan.com
 ||163.com
 ||17173.com
 ||2345.cc
@@ -120,7 +119,6 @@ bilibili.com##div[class*="search-panel"]
 ||capcut.cn
 ||cda.cn
 ||ce.cn
-||china.com.cn
 ||cn-healthcare.com
 ||cnzjfc.com
 ||ctyun.cn
