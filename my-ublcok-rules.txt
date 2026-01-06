@@ -47,6 +47,17 @@ bilibili.com##[placeholder]::placeholder { color: transparent !important; }
 !屏蔽搜索框的b站热搜
 bilibili.com##div[class*="search-panel"]
 
+!-----doubao.com-----
+!豆包的广告
+www.doubao.com##[class="max-w-full"]
+www.doubao.com##[class*="download"]
+!多余的界面元素
+!录音按钮
+www.doubao.com##[class*="z-1"]
+!多余侧栏模块
+www.doubao.com##[class*="gap-3"]
+
+
 !---------------2.0域名屏蔽---------------
 
 !---------------2.1流氓下载站---------------
