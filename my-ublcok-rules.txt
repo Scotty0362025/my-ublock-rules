@@ -60,6 +60,8 @@ www.doubao.com##[class*="gap-3"]
 www.doubao.com##.min-h-150
 !回答追问按钮
 www.doubao.com##.suggest-message
+!豆包生图模块广告
+www.doubao.com##.image-list
 
 
 !---------------2.0域名屏蔽---------------
