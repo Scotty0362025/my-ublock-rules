@@ -56,6 +56,10 @@ www.doubao.com##[class*="download"]
 !www.doubao.com##[class*="z-1"]
 !多余侧栏模块
 www.doubao.com##[class*="gap-3"]
+!手机版首页广告
+www.doubao.com##.min-h-150
+!回答追问按钮
+www.doubao.com##.suggest-message
 
 
 !---------------2.0域名屏蔽---------------
