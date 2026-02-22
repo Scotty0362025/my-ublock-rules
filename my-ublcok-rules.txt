@@ -177,6 +177,7 @@ www.doubao.com##.image-list
 ||qq.com
 ||refft.com
 ||roclinux.cn
+||meitu131.com
 ||shandong.gov.cn
 ||shangyexinzhi.com
 ||sina.com.cn
